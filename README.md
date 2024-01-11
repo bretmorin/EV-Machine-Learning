@@ -1,6 +1,7 @@
 # Electric Vehicle Dataset - Machine Learning - Data Analysis
 ## How to run in cloud
 ### Hosted App: https://ev-machine-learning-4yw3nbthiulidjxypccteh.streamlit.app/
+#### Initially developed in Google Colab notebook: https://colab.research.google.com/drive/11RXlsMPMsqe9fDg8O_4nuZvbrN-oeeLb?usp=sharing
 
 #### - Download the sample dataset from either:
 - From this repo, titled 'NRELs Charging Data - Raw.csv', or
